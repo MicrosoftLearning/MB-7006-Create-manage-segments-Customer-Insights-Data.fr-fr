@@ -39,7 +39,7 @@ Dans cette première tâche, nous allons créer une mesure pour définir la vale
 
 1. Sélectionnez le bouton **Exécuter** pour terminer votre mesure.
 
-Dans cette tâche, nous allons créer une mesure pour définir la valeur moyenne de tous les achats effectués en ligne auprès de **Contoso Coffee**.
+    Dans cette tâche, nous allons créer une mesure pour définir la valeur moyenne de tous les achats effectués en ligne auprès de **Contoso Coffee**.
 
 1. Sélectionnez **Insights > Mesures** dans le menu de navigation de gauche.
 
@@ -94,7 +94,7 @@ Dans cette tâche, nous allons créer une mesure pour définir le total de tous 
 
 1. Sélectionnez le bouton **Exécuter** pour terminer votre mesure. Si vous rencontrez une erreur et que vous devez choisir le **chemin de la relation**, sélectionnez **PoS_Purchases > Client** et sélectionnez le bouton **Exécuter** pour terminer.
 
-Ensuite, nous allons créer une mesure pour définir le total de tous les achats effectués en ligne.
+    Ensuite, nous allons créer une mesure pour définir le total de tous les achats effectués en ligne.
 
 1. Sélectionnez **Insights > Mesures** dans le menu de navigation de gauche.
 
@@ -135,7 +135,7 @@ Tout d’abord, nous allons définir le **nombre total de points de fidélité**
 
 1. Sélectionnez le bouton **Exécuter** pour terminer votre mesure.
 
-Ensuite, nous allons définir la valeur totale de tous les achats effectués pour chaque client.
+    Ensuite, nous allons définir la valeur totale de tous les achats effectués pour chaque client.
 
 1. Sélectionnez **Insights > Mesures** dans le menu de navigation de gauche.
 
@@ -157,11 +157,9 @@ Ensuite, nous allons définir la valeur totale de tous les achats effectués pou
 
 1. Sélectionnez l’onglet **Mesures**, développez **TotalOnlineSpend : CustomerInsights**, sélectionnez **Calcul 1**, puis Sélectionnez **Ajouter**.
 
-1. Une fois terminée, votre mesure ressemble à l’image ci-dessous :
-
 1. Sélectionnez le bouton **Exécuter** pour terminer votre mesure.
 
-Ensuite, nous allons définir la valeur moyenne de tous les achats en magasin pour chaque client.
+    Ensuite, nous allons définir la valeur moyenne de tous les achats en magasin pour chaque client.
 
 1. Sélectionnez **Insights > Mesures** dans le menu de navigation de gauche.
 
